@@ -7,6 +7,6 @@ Moreover, the integration of operators has also become urgent due to their high 
 
 Files:
 - hckg.ttl -- The TTL file of the use case specific knowledge graph.
-OntoDocs - HCKG wh-ontology.html -- An ontology documentation, generated with OntoDocs: https://github.com/lambdamusic/OntoDocs  (https://pypi.org/project/ontodocs/)
-OntoDocs - wh-ontology.pdf -- The same  ontology documentation in PDF file format.
-WH_model_sturcture.png  -- The structural view of the use case specific, human-centric knowledge graph.
+- OntoDocs - HCKG wh-ontology.html -- An ontology documentation, generated with OntoDocs: https://github.com/lambdamusic/OntoDocs  (https://pypi.org/project/ontodocs/)
+- OntoDocs - wh-ontology.pdf -- The same  ontology documentation in PDF file format.
+- WH_model_sturcture.png  -- The structural view of the use case specific, human-centric knowledge graph.
